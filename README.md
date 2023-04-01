@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="#" alt="App Clima"> Clima Aoo </a>
+    <a href="#" alt="App Clima"> Clima App </a>
 </h1>
 
 <h4 align="center">
